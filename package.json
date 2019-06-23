@@ -1,0 +1,16 @@
+{
+  "name": "netflix-website",
+  "version": "1.0.0",
+  "description": "Netflix Reponsive Website",
+  "main": "index.js",
+  "homepage": "https://HamzaAsiff.github.io/modern_portfolio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Hamza Asif",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
